@@ -10,6 +10,7 @@ Upload the contents of this folder to your GitHub repository:
 - `style.css`
 - `script.js`
 - `logo.png`
+- `logo-mark.png`
 - `README.md`
 
 Do not upload only the zip file. GitHub and Cloudflare need the actual files.
