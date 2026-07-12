@@ -46,5 +46,5 @@ form.addEventListener("submit", (event) => {
   );
 
   note.textContent = "Opening your email app with the request prefilled.";
-  window.location.href = `mailto:farisghumman@gmail.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:info@elitesoldier.org?subject=${subject}&body=${body}`;
 });
